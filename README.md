@@ -4,6 +4,6 @@
 ![Test Image 5](https://github.com/Proteanox/ANN-Based-Predictor/blob/main/2.png)
 
 # Accuracy
-![Test_image_4}(https://github.com/Proteanox/ANN-Based-Predictor/blob/main/output.png)
+![Test_image_4](https://github.com/Proteanox/ANN-Based-Predictor/blob/main/output.png)
 
 
