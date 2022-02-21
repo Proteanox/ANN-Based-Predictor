@@ -1,1 +1,5 @@
-# ANN-Based-Predictor
+## ANN-Based-Predictor
+
+#Loss function
+
+
